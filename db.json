@@ -1,12 +1,6 @@
 {
   "characters": [
     {
-      "id": 1,
-      "name": "Winnie the Pooh",
-      "image": "https://facts.net/wp-content/uploads/2023/08/17-facts-about-pooh-bear-winnie-the-pooh-1692254690.jpg",
-      "age": 101
-    },
-    {
       "id": 2,
       "name": "Tigger",
       "image": "https://i.pinimg.com/736x/6b/c0/9a/6bc09adcf247984e93fce2dff5460ad0--tigger-tattoo-bear-tattoos.jpg",
